@@ -5,7 +5,7 @@
 
 - Clone Repository
 
-```git clone [https://github.com/Venkatesh0625/Blockchain.git](https://github.com/Venkatesh0625/Blockchain.git)```
+```git clone https://github.com/Venkatesh0625/Blockchain.git```
 
 - Install Dependencies
 
